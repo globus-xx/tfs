@@ -1,0 +1,8 @@
+/* CSS Document */
+#ibox_wrapper { padding: 10px 10px 40px 10px; line-height: 25px; border:1px solid #fff}
+#ibox_wrapper, #ibox_footer_wrapper a { background-color:#ddd; }
+#ibox_content { background-color:#fff; border:0; }
+#ibox_footer_wrapper { padding: 0 3px; bottom: 5px; top: auto;}
+#ibox_footer_wrapper a { color:#fff; display: inline;vertical-align: baseline;margin: 0 2px;outline: none;cursor: pointer;text-align: center;text-decoration: none;font:bold 11px/100% Arial, Helvetica, sans-serif, sans-serif;padding: .5em 10px .55em;text-shadow: 0 -1px 0 rgba(0,0,0,.3);-webkit-border-radius: 3px; -moz-border-radius: 3px;border-radius: 3px;x-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.3);x-moz-box-shadow: 0 1px 2px rgba(0,0,0,.3);xbox-shadow: 0 1px 2px rgba(0,0,0,.3);background: #616161;background: -webkit-gradient(linear, left top, left bottom, from(#757575), to(#4b4b4b));background: -moz-linear-gradient(top,  #757575,  #4b4b4b);filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#757575', endColorstr='#4b4b4b');}
+#ibox_footer_wrapper #ibox_footer { color:#000;font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:11px;text-decoration:none;text-transform:uppercase; text-shadow:#fff 0 1px 0}
+#ibox_progress { background: #fff url(/images/ibox/loading.gif) center center no-repeat}

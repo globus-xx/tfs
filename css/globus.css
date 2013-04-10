@@ -1,0 +1,331 @@
+.homedetail {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #666666;
+	background-position: center;
+	line-height: 25px;
+}
+.homeheading {
+	font-family: "Trebuchet MS", Arial;
+	font-size: 1.8em;
+	line-height: 30px;
+	color: #333333;
+	font-weight: bold;
+}
+.serviceheading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	line-height: 22px;
+}
+.serviceheading A:link {
+	text-decoration: none;
+}
+.homeserve {
+	font-family: "Trebuchet MS", Arial;
+	font-size: 18px;
+	font-weight: bold;
+	color: #333333;
+}
+.mainheading {
+	font-family: "Trebuchet MS", Arial;
+	font-size: 1.8em;
+	font-weight: bold;
+	color: #0E98F0;
+}
+
+.servercontent {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #333333;
+}
+.worklink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #3FA9F5;
+	display: inline;
+	text-align: left;
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+	padding-left: 5px;
+}
+.meet {
+	font-family: "Trebuchet MS", Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0999EF;
+	text-align: left;
+}
+.thanks {
+	font-family: "Trebuchet MS", Arial;
+	font-size: 30px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 40px;
+}
+
+
+
+
+
+.serviceheading A:visited {text-decoration: none}
+.serviceheading A:active {text-decoration: none}
+.serviceheading A:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: #3AA9EE;
+}
+.writing {
+	font-family: "Trebuchet MS", Arial;
+	color: #FFFFFF;
+	line-height: 40px;
+	text-transform: none;
+	font-size: 2em;
+	letter-spacing: 0px;
+	background-color: #000000;
+	display: inline;
+}
+.hello {
+	font-family: "Trebuchet MS", Arial;
+	font-size: 24px;
+	font-weight: bold;
+	color: #333333;
+}
+
+
+
+.headercontent {
+	font-family: "Myriad Pro", Arial, Verdana;
+	font-size: 14px;
+	color: #CCCCCC;
+	text-align: right;
+	text-transform: uppercase;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 26px;
+	text-decoration: none;
+}
+.headercontent A:link {
+	text-decoration: none;
+}
+.headercontent A:visited {text-decoration: none}
+.headercontent A:active {
+	text-decoration: none;
+}
+.headercontent A:hover {
+	text-decoration: none;
+	background-color: #3FAAF2;
+	color: #FFFFFF;
+}
+.gettouch {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CCCCCC;
+}
+
+.whitelink {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #FFFFFF;
+	padding-bottom: 12px;
+	text-align: center;
+}
+.facts {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333333;
+	line-height: 30px;
+	background-position: left;
+}
+.skills {
+    border-top: 1px solid #DBE1E3;
+    margin-top: 10px;
+}
+.blog {
+	font-family: "Myriad Pro", Arial, Verdana;
+	font-size: 18px;
+	color: #666666;
+	font-weight: bold;
+}
+.detail {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: left;
+	color: #333333;
+}
+
+.detailgry {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	text-align: left;
+	line-height: 18px;
+}
+.bluelink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #099BF1;
+	text-align: left;
+	text-decoration: none;
+}
+.headertext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	color: #FFFFFF;
+	background-color: #000000;
+	display: inline;
+	text-align: left;
+	float: left;
+}
+.headerhead {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.whitefooter {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #999999;
+}
+.footercontent {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 25px;
+	color: #FFFFFF;
+	text-transform: capitalize;
+	text-align: center;
+}
+
+.footercontent A:link {text-decoration: none}
+.footercontent A:visited {text-decoration: none}
+.footercontent A:active {text-decoration: none}
+.footercontent A:hover {
+	text-decoration: underline;
+	color: #3FAAF8;
+	background-color: #FFFFFF;
+}
+
+.boring {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+}
+.processhead {
+	font-family: "Trebuchet MS", Arial;
+	font-size: 20px;
+	font-weight: bold;
+	color: #333333;
+	text-align: left;
+	vertical-align: top;
+}
+.blackheads {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	line-height: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	background-color: #000000;
+}
+.detailservice {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	line-height: 20px;
+}
+.weare {
+	font-family: "Trebuchet MS", Arial;
+	font-size: 18px;
+	color: #666666;
+	text-align: left;
+	font-weight: normal;
+	line-height: 26px;
+	letter-spacing: 1px;
+}
+.headerwhitetext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #999999;
+}
+.writingCopy {
+	font-family: "Trebuchet MS", Arial;
+	color: #3FA9F5;
+	line-height: 30px;
+	text-transform: none;
+	font-weight: normal;
+	font-size: 2em;
+}
+.writingblue {
+	color: #3FA9F5;
+}
+.bg-about-header{
+	background-image:url(../images/header/blog-header.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	height:250px;
+}
+
+.bg-services-header{
+	background-image:url(../images/header/about-header.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	height:250px;
+}
+
+.bg-work-header{
+	background-image:url(../images/header/blog-header.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	height:250px;
+}
+
+.bg-blog-header{
+	background-image:url(../images/header/blog-header.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	height:250px;
+}
+
+.bg-contact-header{
+	background-image:url(../images/header/blog-header.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	height:250px;
+}
+.workhead {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #000000;
+	font-weight: bold;
+}
+.boldfont {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	font-weight: bold;
+}
+.weare1 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #666666;
+	text-align: left;
+	font-weight: bold;
+	line-height: 40px;
+	letter-spacing: normal;
+}
+
+.bg-home-header{
+	background-image:url(../images/header/home-header.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	height:618px;
+}
